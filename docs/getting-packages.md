@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Getting Packages
 
-Getting Packages is easy. Just determine what you want to use (listed [here]()). Then, write the package name in the **Packages.Index** Module.
+Getting Packages is easy. Just determine what you want to use (listed [here](https://github.com/izesw/packager/tree/main/index)). Then, write the package name in the **Packages.Index** Module.
 
 Example (DataStore2 & Roact):
 
